@@ -1,4 +1,5 @@
 <?php
+namespace ramprasadm1986\paynimo;
 
 class AES
 {
