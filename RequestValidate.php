@@ -1,5 +1,5 @@
 <?php
-
+namespace ramprasadm1986\paynimo;
 class RequestValidate
 {
     const BLANK_REQUEST_TYPE = 'ERROR008';
