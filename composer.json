@@ -1,0 +1,29 @@
+{
+    "name": "ramprasadm1986/yii2-paynimo",
+    "description": "Yii2 Paynimo Integration",
+    "keywords": ["yii2", "extension", "payment gatway", "paynimo"],
+    "type": "yii2-extension",
+    "license": "Apache-2.0",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "support": {
+		"issues": "https://github.com/ramprasadm1986/yii2-paynimo/issues",
+		"wiki": "https://github.com/ramprasadm1986/yii2-paynimo/wiki",
+		"source": "https://github.com/ramprasadm1986/yii2-paynimo"
+	},
+    "authors": [
+        {
+            "name": "Ramprasad",
+            "email": "ramprasad@krititech.in",
+            "homepage": "https://github.com/ramprasadm1986",
+            "role": "Developer"
+        }
+    ],   
+    "require": {
+		"yiisoft/yii2": "*"
+	},
+    "autoload": {
+		"psr-4": { "ramprasadm1986\\paynimo\\": "" }
+	}
+}
+
